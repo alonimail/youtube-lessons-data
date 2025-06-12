@@ -1,107 +1,50 @@
 [
   {
-    "videoId": "5YTntUDfXaU",
-    "title": "הרב אייל אונגר • פרשת בהעלותך תשפ''ה | עלונימייל",
-    "description": "קרדיט: הרב אייל אונגר",
-    "publishedAt": "2025-06-06T06:30:00Z",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/5YTntUDfXaU/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/5YTntUDfXaU/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/5YTntUDfXaU/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/5YTntUDfXaU/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/5YTntUDfXaU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "videoUrl": "https://www.youtube.com/watch?v=5YTntUDfXaU",
-    "viewCount": 48
-  },
-  {
     "videoId": "Z6ckF1JuwhU",
     "title": "הרב יגאל כהן • פרשת בהעלותך תשפ''ה | עלונימייל",
     "description": "קרדיט: ענפים",
-    "publishedAt": "2025-06-06T06:28:00Z",
+    "publishedAt": "2025-06-06T12:30:00Z",
     "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/Z6ckF1JuwhU/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/Z6ckF1JuwhU/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
       "high": {
         "url": "https://i.ytimg.com/vi/Z6ckF1JuwhU/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/Z6ckF1JuwhU/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/Z6ckF1JuwhU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
     "videoUrl": "https://www.youtube.com/watch?v=Z6ckF1JuwhU",
-    "viewCount": 62
+    "viewCount": 8650,
+    "tags": ["הרב יגאל כהן", "פרשת בהעלותך", "תשפ״ה", "חיזוק"]
   },
   {
-    "videoId": "wGsTNJA_QxI",
-    "title": "הרב יוסף יצחק ג'ייקובסון • פרשת בהעלותך תשפ''ה | עלונימייל",
-    "description": "קרדיט: הרב יוסף יצחק ג'ייקובסון",
-    "publishedAt": "2025-06-06T06:26:00Z",
+    "videoId": "uFgRf7FzSaY",
+    "title": "הרב זמיר כהן • פרשת בהעלותך תשפ''ה | עלונימייל",
+    "description": "קרדיט: הרב זמיר כהן הערוץ הרשמי",
+    "publishedAt": "2025-06-05T18:46:00Z",
     "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/wGsTNJA_QxI/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/wGsTNJA_QxI/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
       "high": {
-        "url": "https://i.ytimg.com/vi/wGsTNJA_QxI/hqdefault.jpg",
+        "url": "https://i.ytimg.com/vi/uFgRf7FzSaY/hqdefault.jpg",
         "width": 480,
         "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/wGsTNJA_QxI/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/wGsTNJA_QxI/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
       }
     },
-    "videoUrl": "https://www.youtube.com/watch?v=wGsTNJA_QxI",
-    "viewCount": 51
+    "videoUrl": "https://www.youtube.com/watch?v=uFgRf7FzSaY",
+    "viewCount": 15432,
+    "tags": ["הרב זמיר כהן", "פרשת בהעלותך", "תשפ״ה", "יהדות"]
+  },
+  {
+    "videoId": "pN9m0G4HuA8",
+    "title": "הרב מאיר אליהו • פרשת בהעלותך תשפ''ה | עלונימייל",
+    "description": "קרדיט: הרב מאיר אליהו",
+    "publishedAt": "2025-06-05T07:12:00Z",
+    "thumbnails": {
+      "high": {
+        "url": "https://i.ytimg.com/vi/pN9m0G4HuA8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=pN9m0G4HuA8",
+    "viewCount": 9325,
+    "tags": ["הרב מאיר אליהו", "פרשת בהעלותך", "תשפ״ה", "מוסר"]
   }
 ]
