@@ -1,9 +1,25 @@
 [
   {
+    "videoId": "cU8P2JQiA18",
+    "title": "הרב זמיר כהן • פרשת נשא תשפ\"ה | עלונימייל",
+    "description": "קרדיט: הרב זמיר כהן הערוץ הרשמי",
+    "publishedAt": "2025-06-02T20:23:47Z",
+    "thumbnails": {
+      "high": {
+        "url": "https://i.ytimg.com/vi/cU8P2JQiA18/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "videoUrl": "https://www.youtube.com/watch?v=cU8P2JQiA18",
+    "viewCount": 14231,
+    "tags": ["זמיר כהן", "פרשת נשא", "עלונימייל"]
+  },
+  {
     "videoId": "Z6ckF1JuwhU",
-    "title": "הרב יגאל כהן • פרשת בהעלותך תשפ''ה | עלונימייל",
+    "title": "הרב יגאל כהן • פרשת נשא תשפ\"ה | עלונימייל",
     "description": "קרדיט: ענפים",
-    "publishedAt": "2025-06-06T12:30:00Z",
+    "publishedAt": "2025-06-04T06:42:27Z",
     "thumbnails": {
       "high": {
         "url": "https://i.ytimg.com/vi/Z6ckF1JuwhU/hqdefault.jpg",
@@ -12,39 +28,23 @@
       }
     },
     "videoUrl": "https://www.youtube.com/watch?v=Z6ckF1JuwhU",
-    "viewCount": 8650,
-    "tags": ["הרב יגאל כהן", "פרשת בהעלותך", "תשפ״ה", "חיזוק"]
+    "viewCount": 26780,
+    "tags": ["יגאל כהן", "פרשת נשא", "עלונימייל"]
   },
   {
-    "videoId": "uFgRf7FzSaY",
-    "title": "הרב זמיר כהן • פרשת בהעלותך תשפ''ה | עלונימייל",
-    "description": "קרדיט: הרב זמיר כהן הערוץ הרשמי",
-    "publishedAt": "2025-06-05T18:46:00Z",
+    "videoId": "5YTntUDfXaU",
+    "title": "הרב אייל אונגר • פרשת נשא תשפ\"ה | עלונימייל",
+    "description": "קרדיט: הרב אייל אונגר",
+    "publishedAt": "2025-06-04T06:43:24Z",
     "thumbnails": {
       "high": {
-        "url": "https://i.ytimg.com/vi/uFgRf7FzSaY/hqdefault.jpg",
+        "url": "https://i.ytimg.com/vi/5YTntUDfXaU/hqdefault.jpg",
         "width": 480,
         "height": 360
       }
     },
-    "videoUrl": "https://www.youtube.com/watch?v=uFgRf7FzSaY",
-    "viewCount": 15432,
-    "tags": ["הרב זמיר כהן", "פרשת בהעלותך", "תשפ״ה", "יהדות"]
-  },
-  {
-    "videoId": "pN9m0G4HuA8",
-    "title": "הרב מאיר אליהו • פרשת בהעלותך תשפ''ה | עלונימייל",
-    "description": "קרדיט: הרב מאיר אליהו",
-    "publishedAt": "2025-06-05T07:12:00Z",
-    "thumbnails": {
-      "high": {
-        "url": "https://i.ytimg.com/vi/pN9m0G4HuA8/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      }
-    },
-    "videoUrl": "https://www.youtube.com/watch?v=pN9m0G4HuA8",
-    "viewCount": 9325,
-    "tags": ["הרב מאיר אליהו", "פרשת בהעלותך", "תשפ״ה", "מוסר"]
+    "videoUrl": "https://www.youtube.com/watch?v=5YTntUDfXaU",
+    "viewCount": 9520,
+    "tags": ["אייל אונגר", "פרשת נשא", "עלונימייל"]
   }
 ]
