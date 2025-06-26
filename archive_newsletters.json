@@ -1,5 +1,329 @@
 {
   "תשפ\"ה": {
+    "מטות": [
+      {
+        "name": "09 • אוסף עלוני שב''ק • פרשת מטות מסעי תשפ''ה | עלונימייל",
+        "date": "2025-06-26T19:25:10.203Z",
+        "url": null,
+        "parasha": "מטות",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "09 • אוסף עלוני שב''ק • פרשת מטות מסעי תשפ''ד I עלונימייל",
+        "date": "2025-05-06T21:36:22.297Z",
+        "url": null,
+        "parasha": "מטות",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "09 • אוסף עלוני שב''ק • פרשת מטות מסעי תשפ''ג I עלונימייל",
+        "date": "2025-04-21T01:01:41.868Z",
+        "url": null,
+        "parasha": "מטות",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      }
+    ],
+    "נח": [
+      {
+        "name": "08 • אוסף עלוני שב''ק • פרשת פנחס תשפ''ה | עלונימייל",
+        "date": "2025-06-26T19:24:53.315Z",
+        "url": null,
+        "parasha": "נח",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "02 • אוסף עלוני שב''ק • פרשת נח תשפ''ה I עלונימייל",
+        "date": "2025-05-06T21:50:28.565Z",
+        "url": null,
+        "parasha": "נח",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "02 • אוסף עלוני שב''ק • פרשת נח תשפ''ד I עלונימייל",
+        "date": "2025-05-06T21:22:45.532Z",
+        "url": null,
+        "parasha": "נח",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "08 • אוסף עלוני שב''ק • פרשת פנחס תשפ''ד I עלונימייל",
+        "date": "2025-05-06T21:36:06.259Z",
+        "url": null,
+        "parasha": "נח",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "08 • אוסף עלוני שב''ק • פרשת פנחס תשפ''ג I עלונימייל",
+        "date": "2025-04-21T01:01:29.523Z",
+        "url": null,
+        "parasha": "נח",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "02 • עלונימייל • אוסף מיטב עלוני שב\"ק • פרשת נח תשפ\"ג",
+        "date": "2025-04-21T00:42:47.187Z",
+        "url": null,
+        "parasha": "נח",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      }
+    ],
+    "בלק": [
+      {
+        "name": "07 • אוסף עלוני שב''ק • פרשת בלק תשפ''ה | עלונימייל",
+        "date": "2025-06-26T19:24:42.014Z",
+        "url": null,
+        "parasha": "בלק",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "07 • אוסף עלוני שב''ק • פרשת בלק תשפ''ד I עלונימייל",
+        "date": "2025-05-06T21:35:53.068Z",
+        "url": null,
+        "parasha": "בלק",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "07 • אוסף עלוני שב''ק • פרשת בלק תשפ''ג I עלונימייל",
+        "date": "2025-04-21T01:01:17.785Z",
+        "url": null,
+        "parasha": "בלק",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      }
+    ],
+    "פרשת השבוע": [
+      {
+        "name": "06 • אוסף עלוני שב''ק • פרשת חקת תשפ''ה | עלונימייל",
+        "date": "2025-06-26T19:24:25.906Z",
+        "url": null,
+        "parasha": "פרשת השבוע",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "05 • אוסף עלוני שב''ק • פרשת קרח תשפ''ה | עלונימייל",
+        "date": "2025-06-26T19:21:50.359Z",
+        "url": null,
+        "parasha": "פרשת השבוע",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "05 • אוסף עלוני שב''ק • פרשת קרח תשפ''ד I עלונימייל",
+        "date": "2025-05-06T21:35:20.433Z",
+        "url": null,
+        "parasha": "פרשת השבוע",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "05 • אוסף עלוני שב''ק • פרשת קרח תשפ''ג I עלונימייל",
+        "date": "2025-04-21T01:00:48.909Z",
+        "url": null,
+        "parasha": "פרשת השבוע",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      }
+    ],
+    "שלח": [
+      {
+        "name": "04 • אוסף עלוני שב''ק • פרשת שלח תשפ''ה | עלונימייל",
+        "date": "2025-06-26T19:21:29.570Z",
+        "url": null,
+        "parasha": "שלח",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "04 • אוסף עלוני שב''ק • פרשת שלח תשפ''ד I עלונימייל",
+        "date": "2025-05-06T21:35:06.306Z",
+        "url": null,
+        "parasha": "שלח",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "04 • אוסף עלוני שב''ק • פרשת שלח תשפ''ג I עלונימייל",
+        "date": "2025-04-21T01:00:36.329Z",
+        "url": null,
+        "parasha": "שלח",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      }
+    ],
+    "בהעלותך": [
+      {
+        "name": "03 • אוסף עלוני שב''ק • פרשת בהעלותך תשפ''ה | עלונימייל",
+        "date": "2025-06-26T19:21:14.173Z",
+        "url": null,
+        "parasha": "בהעלותך",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "03 • אוסף עלוני שב''ק • פרשת בהעלותך תשפ''ד I עלונימייל",
+        "date": "2025-05-06T16:15:04.065Z",
+        "url": null,
+        "parasha": "בהעלותך",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "03 • אוסף עלוני שב''ק • פרשת בהעלותך תשפ''ג I עלונימייל",
+        "date": "2025-04-21T00:59:05.867Z",
+        "url": null,
+        "parasha": "בהעלותך",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      }
+    ],
+    "נשא": [
+      {
+        "name": "02 • אוסף עלוני שב''ק • פרשת נשא תשפ''ה | עלונימייל",
+        "date": "2025-06-26T19:20:58.260Z",
+        "url": null,
+        "parasha": "נשא",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "02 • אוסף עלוני שב''ק • פרשת נשא תשפ''ד I עלונימייל",
+        "date": "2025-05-06T16:14:44.836Z",
+        "url": null,
+        "parasha": "נשא",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "02 • אוסף עלוני שב''ק • חג השבועות ופרשת נשא תשפ''ג I עלונימייל",
+        "date": "2025-04-21T00:58:50.307Z",
+        "url": null,
+        "parasha": "נשא",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      }
+    ],
+    "במדבר": [
+      {
+        "name": "01 • אוסף עלוני שב''ק • פרשת במדבר - שבועות תשפ''ה | עלונימייל",
+        "date": "2025-06-26T19:20:42.202Z",
+        "url": null,
+        "parasha": "במדבר",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "01 • אוסף עלוני שב''ק • פרשת במדבר תשפ''ד I עלונימייל",
+        "date": "2025-05-06T16:14:30.693Z",
+        "url": null,
+        "parasha": "במדבר",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      },
+      {
+        "name": "01 • אוסף עלוני שב''ק • פרשת במדבר תשפ''ג I עלונימייל",
+        "date": "2025-04-21T00:58:34.662Z",
+        "url": null,
+        "parasha": "במדבר",
+        "year": "תשפ\"ה",
+        "language": "עברית",
+        "downloads": 0,
+        "isFavorite": false,
+        "isPinned": false
+      }
+    ],
     "בהר": [
       {
         "name": "07 • אוסף עלוני שב''ק • פרשת בהר בחוקותי תשפ''ה I עלונימייל",
@@ -967,63 +1291,6 @@
         "isPinned": false
       }
     ],
-    "נח": [
-      {
-        "name": "02 • אוסף עלוני שב''ק • פרשת נח תשפ''ה I עלונימייל",
-        "date": "2025-05-06T21:50:28.565Z",
-        "url": null,
-        "parasha": "נח",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "02 • אוסף עלוני שב''ק • פרשת נח תשפ''ד I עלונימייל",
-        "date": "2025-05-06T21:22:45.532Z",
-        "url": null,
-        "parasha": "נח",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "08 • אוסף עלוני שב''ק • פרשת פנחס תשפ''ד I עלונימייל",
-        "date": "2025-05-06T21:36:06.259Z",
-        "url": null,
-        "parasha": "נח",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "08 • אוסף עלוני שב''ק • פרשת פנחס תשפ''ג I עלונימייל",
-        "date": "2025-04-21T01:01:29.523Z",
-        "url": null,
-        "parasha": "נח",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "02 • עלונימייל • אוסף מיטב עלוני שב\"ק • פרשת נח תשפ\"ג",
-        "date": "2025-04-21T00:42:47.187Z",
-        "url": null,
-        "parasha": "נח",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      }
-    ],
     "בראשית": [
       {
         "name": "01 • אוסף עלוני שב''ק • פרשת בראשית תשפ''ד I עלונימייל",
@@ -1301,54 +1568,6 @@
         "isPinned": false
       }
     ],
-    "מטות": [
-      {
-        "name": "09 • אוסף עלוני שב''ק • פרשת מטות מסעי תשפ''ד I עלונימייל",
-        "date": "2025-05-06T21:36:22.297Z",
-        "url": null,
-        "parasha": "מטות",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "09 • אוסף עלוני שב''ק • פרשת מטות מסעי תשפ''ג I עלונימייל",
-        "date": "2025-04-21T01:01:41.868Z",
-        "url": null,
-        "parasha": "מטות",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      }
-    ],
-    "בלק": [
-      {
-        "name": "07 • אוסף עלוני שב''ק • פרשת בלק תשפ''ד I עלונימייל",
-        "date": "2025-05-06T21:35:53.068Z",
-        "url": null,
-        "parasha": "בלק",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "07 • אוסף עלוני שב''ק • פרשת בלק תשפ''ג I עלונימייל",
-        "date": "2025-04-21T01:01:17.785Z",
-        "url": null,
-        "parasha": "בלק",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      }
-    ],
     "חוקת": [
       {
         "name": "06 • אוסף עלוני שב''ק • פרשת חוקת תשפ''ד I עלונימייל",
@@ -1366,126 +1585,6 @@
         "date": "2025-04-21T01:01:02.516Z",
         "url": null,
         "parasha": "חוקת",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      }
-    ],
-    "פרשת השבוע": [
-      {
-        "name": "05 • אוסף עלוני שב''ק • פרשת קרח תשפ''ד I עלונימייל",
-        "date": "2025-05-06T21:35:20.433Z",
-        "url": null,
-        "parasha": "פרשת השבוע",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "05 • אוסף עלוני שב''ק • פרשת קרח תשפ''ג I עלונימייל",
-        "date": "2025-04-21T01:00:48.909Z",
-        "url": null,
-        "parasha": "פרשת השבוע",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      }
-    ],
-    "שלח": [
-      {
-        "name": "04 • אוסף עלוני שב''ק • פרשת שלח תשפ''ד I עלונימייל",
-        "date": "2025-05-06T21:35:06.306Z",
-        "url": null,
-        "parasha": "שלח",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "04 • אוסף עלוני שב''ק • פרשת שלח תשפ''ג I עלונימייל",
-        "date": "2025-04-21T01:00:36.329Z",
-        "url": null,
-        "parasha": "שלח",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      }
-    ],
-    "בהעלותך": [
-      {
-        "name": "03 • אוסף עלוני שב''ק • פרשת בהעלותך תשפ''ד I עלונימייל",
-        "date": "2025-05-06T16:15:04.065Z",
-        "url": null,
-        "parasha": "בהעלותך",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "03 • אוסף עלוני שב''ק • פרשת בהעלותך תשפ''ג I עלונימייל",
-        "date": "2025-04-21T00:59:05.867Z",
-        "url": null,
-        "parasha": "בהעלותך",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      }
-    ],
-    "נשא": [
-      {
-        "name": "02 • אוסף עלוני שב''ק • פרשת נשא תשפ''ד I עלונימייל",
-        "date": "2025-05-06T16:14:44.836Z",
-        "url": null,
-        "parasha": "נשא",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "02 • אוסף עלוני שב''ק • חג השבועות ופרשת נשא תשפ''ג I עלונימייל",
-        "date": "2025-04-21T00:58:50.307Z",
-        "url": null,
-        "parasha": "נשא",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      }
-    ],
-    "במדבר": [
-      {
-        "name": "01 • אוסף עלוני שב''ק • פרשת במדבר תשפ''ד I עלונימייל",
-        "date": "2025-05-06T16:14:30.693Z",
-        "url": null,
-        "parasha": "במדבר",
-        "year": "תשפ\"ה",
-        "language": "עברית",
-        "downloads": 0,
-        "isFavorite": false,
-        "isPinned": false
-      },
-      {
-        "name": "01 • אוסף עלוני שב''ק • פרשת במדבר תשפ''ג I עלונימייל",
-        "date": "2025-04-21T00:58:34.662Z",
-        "url": null,
-        "parasha": "במדבר",
         "year": "תשפ\"ה",
         "language": "עברית",
         "downloads": 0,
