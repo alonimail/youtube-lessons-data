@@ -10,7 +10,7 @@
       "#פרשת_חקת"
     ],
     "privacyStatus": "public",
-    "viewCount": "145"
+    "viewCount": "142"
   },
   {
     "videoId": "FPIB0YGy9oI",
@@ -23,7 +23,7 @@
       "#פרשת_חקת"
     ],
     "privacyStatus": "public",
-    "viewCount": "895"
+    "viewCount": "896"
   },
   {
     "videoId": "ixY6qraqcQM",
@@ -36,7 +36,7 @@
       "#פרשת_חקת"
     ],
     "privacyStatus": "public",
-    "viewCount": "70"
+    "viewCount": "73"
   },
   {
     "videoId": "LySiIPGSmjg",
@@ -49,7 +49,7 @@
       "#פרשת_חקת"
     ],
     "privacyStatus": "public",
-    "viewCount": "30"
+    "viewCount": "31"
   },
   {
     "videoId": "I1AnPRuWLcg",
@@ -75,7 +75,7 @@
       "#פרשת_חקת"
     ],
     "privacyStatus": "public",
-    "viewCount": "22"
+    "viewCount": "21"
   },
   {
     "videoId": "NV7Ng5Xpu4Y",
@@ -114,7 +114,7 @@
       "#פרשת_חקת"
     ],
     "privacyStatus": "public",
-    "viewCount": "21"
+    "viewCount": "22"
   },
   {
     "videoId": "5D1drZhX6b0",
@@ -179,7 +179,7 @@
       "#פרשת_חקת"
     ],
     "privacyStatus": "public",
-    "viewCount": "30"
+    "viewCount": "25"
   },
   {
     "videoId": "a0oQCgPQFDI",
@@ -218,7 +218,7 @@
       "#פרשת_חקת"
     ],
     "privacyStatus": "public",
-    "viewCount": "17"
+    "viewCount": "16"
   },
   {
     "videoId": "8OXWR6W9IAs",
@@ -336,5 +336,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "3"
+  },
+  {
+    "videoId": "gW8zwxrjSxw",
+    "title": "Private video",
+    "publishedAt": "2025-07-04T10:25:37Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
