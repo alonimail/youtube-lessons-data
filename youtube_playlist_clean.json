@@ -101,7 +101,7 @@
       "#פרשת_בלק"
     ],
     "privacyStatus": "public",
-    "viewCount": "20"
+    "viewCount": "21"
   },
   {
     "videoId": "NuDqCsutuOw",
@@ -127,7 +127,7 @@
       "#פרשת_בלק"
     ],
     "privacyStatus": "public",
-    "viewCount": "152"
+    "viewCount": "155"
   },
   {
     "videoId": "hDqt_9PfMEA",
@@ -231,7 +231,7 @@
       "#פרשת_בלק"
     ],
     "privacyStatus": "public",
-    "viewCount": "84"
+    "viewCount": "85"
   },
   {
     "videoId": "m5gEMYyBHd0",
@@ -336,5 +336,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "18"
+  },
+  {
+    "videoId": "tLLjA6Avtbw",
+    "title": "Private video",
+    "publishedAt": "2025-07-14T10:48:04Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
