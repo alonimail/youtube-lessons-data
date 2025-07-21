@@ -50,5 +50,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "16"
+  },
+  {
+    "videoId": "fQo2ruL_2hU",
+    "title": "Private video",
+    "publishedAt": "2025-07-21T21:41:50Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
