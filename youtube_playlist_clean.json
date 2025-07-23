@@ -62,7 +62,7 @@
       "#פרשת_מטות"
     ],
     "privacyStatus": "public",
-    "viewCount": "74"
+    "viewCount": "72"
   },
   {
     "videoId": "OAZDvmWVFMk",
@@ -154,5 +154,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "5"
+  },
+  {
+    "videoId": "mG_TBRAYi_c",
+    "title": "Private video",
+    "publishedAt": "2025-07-23T11:06:32Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
