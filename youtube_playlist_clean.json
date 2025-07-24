@@ -23,7 +23,7 @@
       "#פרשת_מטות"
     ],
     "privacyStatus": "public",
-    "viewCount": "98"
+    "viewCount": "97"
   },
   {
     "videoId": "VHK5qKO0BHk",
@@ -49,7 +49,7 @@
       "#פרשת_מטות"
     ],
     "privacyStatus": "public",
-    "viewCount": "56"
+    "viewCount": "57"
   },
   {
     "videoId": "fQo2ruL_2hU",
@@ -62,7 +62,7 @@
       "#פרשת_מטות"
     ],
     "privacyStatus": "public",
-    "viewCount": "121"
+    "viewCount": "120"
   },
   {
     "videoId": "OAZDvmWVFMk",
@@ -75,7 +75,7 @@
       "#פרשת_מטות"
     ],
     "privacyStatus": "public",
-    "viewCount": "24"
+    "viewCount": "23"
   },
   {
     "videoId": "pwz_6ZfeTpw",
@@ -232,5 +232,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "j91DyT6jasc",
+    "title": "Private video",
+    "publishedAt": "2025-07-24T13:02:37Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
