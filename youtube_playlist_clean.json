@@ -246,5 +246,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "o9hdNV2Yf7I",
+    "title": "Private video",
+    "publishedAt": "2025-08-06T22:54:17Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
