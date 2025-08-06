@@ -332,5 +332,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "YhzENOnEuLc",
+    "title": "Private video",
+    "publishedAt": "2025-08-06T16:51:11Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
