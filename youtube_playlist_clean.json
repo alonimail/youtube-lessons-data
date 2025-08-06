@@ -88,5 +88,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "O-ALneCzwG8",
+    "title": "Private video",
+    "publishedAt": "2025-08-06T17:52:24Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
