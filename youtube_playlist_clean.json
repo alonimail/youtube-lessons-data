@@ -114,7 +114,7 @@
       "#פרשת_ואתחנן"
     ],
     "privacyStatus": "public",
-    "viewCount": "0"
+    "viewCount": "1"
   },
   {
     "videoId": "1vEbppLyNzI",
@@ -192,7 +192,7 @@
       "#פרשת_ואתחנן"
     ],
     "privacyStatus": "public",
-    "viewCount": "0"
+    "viewCount": "1"
   },
   {
     "videoId": "lMd974f5FrY",
@@ -260,6 +260,15 @@
     "videoId": "PgSEQ1tbYTQ",
     "title": "Private video",
     "publishedAt": "2025-08-06T22:56:39Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
+  },
+  {
+    "videoId": "dIOaetsotHw",
+    "title": "Private video",
+    "publishedAt": "2025-08-06T22:59:26Z",
     "description": "This video is private.",
     "thumbnail": "",
     "tags": [],
