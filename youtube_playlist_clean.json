@@ -49,7 +49,7 @@
       "#פרשת_דברים"
     ],
     "privacyStatus": "public",
-    "viewCount": "284"
+    "viewCount": "286"
   },
   {
     "videoId": "fAUbO6ZSK6I",
@@ -231,7 +231,7 @@
       "#פרשת_דברים"
     ],
     "privacyStatus": "public",
-    "viewCount": "282"
+    "viewCount": "281"
   },
   {
     "videoId": "eAkMSPjRfgs",
@@ -337,6 +337,15 @@
     "videoId": "YhzENOnEuLc",
     "title": "Private video",
     "publishedAt": "2025-08-06T16:51:11Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
+  },
+  {
+    "videoId": "fzQUekom_FU",
+    "title": "Private video",
+    "publishedAt": "2025-08-06T16:52:20Z",
     "description": "This video is private.",
     "thumbnail": "",
     "tags": [],
