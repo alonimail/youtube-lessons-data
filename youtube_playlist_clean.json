@@ -142,5 +142,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "YDpyzA2m6m0",
+    "title": "Private video",
+    "publishedAt": "2025-08-06T19:31:07Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
