@@ -10,7 +10,7 @@
       "#פרשת_עקב"
     ],
     "privacyStatus": "public",
-    "viewCount": "361"
+    "viewCount": "359"
   },
   {
     "videoId": "iVKjhxyHwxw",
@@ -166,7 +166,7 @@
       "#פרשת_עקב"
     ],
     "privacyStatus": "public",
-    "viewCount": "18"
+    "viewCount": "21"
   },
   {
     "videoId": "Qo_65Gfnmug",
@@ -258,5 +258,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "gIxxKbztvSI",
+    "title": "Private video",
+    "publishedAt": "2025-08-14T11:28:51Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
