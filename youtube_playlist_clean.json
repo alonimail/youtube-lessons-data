@@ -50,5 +50,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "4"
+  },
+  {
+    "videoId": "i5T70DyGoTc",
+    "title": "Private video",
+    "publishedAt": "2025-08-17T17:08:31Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
