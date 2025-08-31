@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "videoId": "gYAPIHclqTE",
+    "title": "Private video",
+    "publishedAt": "2025-08-31T17:27:37Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
+  }
+]
