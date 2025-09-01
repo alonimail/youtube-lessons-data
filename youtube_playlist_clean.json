@@ -37,5 +37,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "37"
+  },
+  {
+    "videoId": "AP_AhkDv0ls",
+    "title": "Private video",
+    "publishedAt": "2025-09-01T17:50:36Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
