@@ -24,5 +24,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "verhmD6f36k",
+    "title": "Private video",
+    "publishedAt": "2025-09-07T11:41:39Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
