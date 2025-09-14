@@ -76,5 +76,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "8"
+  },
+  {
+    "videoId": "DSkgGg76nDA",
+    "title": "Private video",
+    "publishedAt": "2025-09-14T22:22:01Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
