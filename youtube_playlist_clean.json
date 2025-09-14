@@ -75,7 +75,7 @@
       "#פרשת_כי"
     ],
     "privacyStatus": "public",
-    "viewCount": "241"
+    "viewCount": "242"
   },
   {
     "videoId": "verhmD6f36k",
@@ -231,7 +231,7 @@
       "#פרשת_כי"
     ],
     "privacyStatus": "public",
-    "viewCount": "46"
+    "viewCount": "45"
   },
   {
     "videoId": "l_dHe6wFzkM",
@@ -323,5 +323,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "14"
+  },
+  {
+    "videoId": "xUa7Rosjb0c",
+    "title": "Private video",
+    "publishedAt": "2025-09-14T11:49:33Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
