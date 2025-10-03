@@ -49,5 +49,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "39"
+  },
+  {
+    "videoId": "wYn-hUPz7PM",
+    "title": "Private video",
+    "publishedAt": "2025-10-03T02:36:45Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
