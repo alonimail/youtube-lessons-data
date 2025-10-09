@@ -9,7 +9,7 @@
       "#הרב_אלימלך"
     ],
     "privacyStatus": "public",
-    "viewCount": "616"
+    "viewCount": "628"
   },
   {
     "videoId": "uGXv8PXdXwc",
@@ -105,7 +105,7 @@
       "#הרב_גואל"
     ],
     "privacyStatus": "public",
-    "viewCount": "31"
+    "viewCount": "32"
   },
   {
     "videoId": "NDQDiCpSsZs",
@@ -141,7 +141,7 @@
       "#הרב_ליאור"
     ],
     "privacyStatus": "public",
-    "viewCount": "2"
+    "viewCount": "4"
   },
   {
     "videoId": "2HjT027Pmb0",
@@ -154,5 +154,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "6"
+  },
+  {
+    "videoId": "t0PftMVS3do",
+    "title": "Private video",
+    "publishedAt": "2025-10-09T14:45:55Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
