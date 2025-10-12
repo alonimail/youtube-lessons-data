@@ -250,5 +250,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "36"
+  },
+  {
+    "videoId": "LCrOzjzSMi0",
+    "title": "Private video",
+    "publishedAt": "2025-10-12T22:41:40Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
