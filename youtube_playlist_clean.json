@@ -162,7 +162,7 @@
       "#פרשת_נח"
     ],
     "privacyStatus": "public",
-    "viewCount": "27"
+    "viewCount": "28"
   },
   {
     "videoId": "jB3PMO_Leec",
@@ -175,7 +175,7 @@
       "#פרשת_נח"
     ],
     "privacyStatus": "public",
-    "viewCount": "11"
+    "viewCount": "10"
   },
   {
     "videoId": "kebX70aXwG4",
@@ -345,5 +345,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "4"
+  },
+  {
+    "videoId": "nc6ezDbLer0",
+    "title": "Private video",
+    "publishedAt": "2025-10-24T12:51:51Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
