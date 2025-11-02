@@ -10,7 +10,7 @@
       "#פרשת_וירא"
     ],
     "privacyStatus": "public",
-    "viewCount": "20"
+    "viewCount": "23"
   },
   {
     "videoId": "uWZXVYgcfbM",
@@ -23,7 +23,7 @@
       "#פרשת_וירא"
     ],
     "privacyStatus": "public",
-    "viewCount": "3"
+    "viewCount": "4"
   },
   {
     "videoId": "OW1pNdCljoY",
@@ -63,5 +63,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "pkrBd1pKr4Y",
+    "title": "Private video",
+    "publishedAt": "2025-11-02T11:41:44Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
