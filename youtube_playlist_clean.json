@@ -23,7 +23,7 @@
       "#פרשת_תולדות"
     ],
     "privacyStatus": "public",
-    "viewCount": "67"
+    "viewCount": "66"
   },
   {
     "videoId": "XlrQmdEkfPA",
@@ -62,7 +62,7 @@
       "#פרשת_תולדות"
     ],
     "privacyStatus": "public",
-    "viewCount": "17"
+    "viewCount": "18"
   },
   {
     "videoId": "TVhDWw4ygZA",
@@ -180,5 +180,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "ns2Gd6luMb4",
+    "title": "Private video",
+    "publishedAt": "2025-11-18T13:35:33Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
