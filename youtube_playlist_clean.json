@@ -10,7 +10,7 @@
       "#פרשת_ויצא"
     ],
     "privacyStatus": "public",
-    "viewCount": "89"
+    "viewCount": "86"
   },
   {
     "videoId": "KPehEYgb04I",
@@ -49,7 +49,7 @@
       "#פרשת_ויצא"
     ],
     "privacyStatus": "public",
-    "viewCount": "5"
+    "viewCount": "6"
   },
   {
     "videoId": "WVO767ueRGU",
@@ -62,7 +62,7 @@
       "#פרשת_ויצא"
     ],
     "privacyStatus": "public",
-    "viewCount": "17"
+    "viewCount": "15"
   },
   {
     "videoId": "a-9gZkjYfLs",
@@ -76,5 +76,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "1"
+  },
+  {
+    "videoId": "AdIuTV6V62Y",
+    "title": "Private video",
+    "publishedAt": "2025-11-24T06:27:39Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
