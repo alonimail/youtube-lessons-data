@@ -23,7 +23,7 @@
       "#פרשת_וישב"
     ],
     "privacyStatus": "public",
-    "viewCount": "48"
+    "viewCount": "44"
   },
   {
     "videoId": "-ih5J0ilh9Q",
@@ -36,7 +36,7 @@
       "#פרשת_וישב"
     ],
     "privacyStatus": "public",
-    "viewCount": "33"
+    "viewCount": "35"
   },
   {
     "videoId": "0j_mev9U6HY",
@@ -167,5 +167,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "vviJenWTOEM",
+    "title": "Private video",
+    "publishedAt": "2025-12-09T23:42:40Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
