@@ -231,7 +231,7 @@
       "#פרשת_מקץ"
     ],
     "privacyStatus": "public",
-    "viewCount": "10"
+    "viewCount": "9"
   },
   {
     "videoId": "RCEtgzRrBGc",
@@ -336,5 +336,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "7"
+  },
+  {
+    "videoId": "FhUkKsyDWPw",
+    "title": "Private video",
+    "publishedAt": "2025-12-20T17:48:36Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
