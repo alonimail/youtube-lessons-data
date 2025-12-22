@@ -103,5 +103,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "JtwBY8EqHMQ",
+    "title": "Private video",
+    "publishedAt": "2025-12-22T23:46:47Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
