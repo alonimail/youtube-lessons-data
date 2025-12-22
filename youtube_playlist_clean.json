@@ -36,7 +36,7 @@
       "#פרשת_ויגש"
     ],
     "privacyStatus": "public",
-    "viewCount": "24"
+    "viewCount": "25"
   },
   {
     "videoId": "r_yoCZ4sIXc",
@@ -81,6 +81,15 @@
     "videoId": "-3Q8QXx-qzI",
     "title": "Private video",
     "publishedAt": "2025-12-22T13:47:56Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
+  },
+  {
+    "videoId": "FKF5oGaeqiw",
+    "title": "Private video",
+    "publishedAt": "2025-12-22T21:20:37Z",
     "description": "This video is private.",
     "thumbnail": "",
     "tags": [],
