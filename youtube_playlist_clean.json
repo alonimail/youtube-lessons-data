@@ -123,7 +123,7 @@
       "#פרשת_ויגש"
     ],
     "privacyStatus": "public",
-    "viewCount": "20"
+    "viewCount": "18"
   },
   {
     "videoId": "kzMXTJnxmbA",
@@ -136,7 +136,7 @@
       "#פרשת_ויגש"
     ],
     "privacyStatus": "public",
-    "viewCount": "14"
+    "viewCount": "17"
   },
   {
     "videoId": "Wx2DIpd1Tuc",
@@ -189,5 +189,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "ajSJSt1-BtQ",
+    "title": "Private video",
+    "publishedAt": "2025-12-24T00:20:42Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
