@@ -201,5 +201,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "3"
+  },
+  {
+    "videoId": "S7FI8I2MdKY",
+    "title": "Private video",
+    "publishedAt": "2025-12-31T12:55:03Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
