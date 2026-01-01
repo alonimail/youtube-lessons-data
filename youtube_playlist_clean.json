@@ -227,5 +227,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "24"
+  },
+  {
+    "videoId": "1t2KJruvq20",
+    "title": "Private video",
+    "publishedAt": "2026-01-01T17:48:42Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
