@@ -45,7 +45,7 @@
       "#פרשת_שמות"
     ],
     "privacyStatus": "public",
-    "viewCount": "8"
+    "viewCount": "7"
   },
   {
     "videoId": "O10YrtxJuuU",
@@ -72,5 +72,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "1"
+  },
+  {
+    "videoId": "Ct7b2NRnkMA",
+    "title": "Private video",
+    "publishedAt": "2026-01-05T22:57:46Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
