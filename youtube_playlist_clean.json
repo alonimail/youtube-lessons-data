@@ -19,7 +19,7 @@
       "#פרשת_שמות"
     ],
     "privacyStatus": "public",
-    "viewCount": "959"
+    "viewCount": "906"
   },
   {
     "videoId": "XqCAWRNHsQc",
@@ -58,7 +58,7 @@
       "#פרשת_שמות"
     ],
     "privacyStatus": "public",
-    "viewCount": "36"
+    "viewCount": "34"
   },
   {
     "videoId": "BL6bqVqX2-Q",
@@ -71,7 +71,7 @@
       "#פרשת_שמות"
     ],
     "privacyStatus": "public",
-    "viewCount": "33"
+    "viewCount": "31"
   },
   {
     "videoId": "Ct7b2NRnkMA",
@@ -214,7 +214,7 @@
       "#פרשת_שמות"
     ],
     "privacyStatus": "public",
-    "viewCount": "49"
+    "viewCount": "50"
   },
   {
     "videoId": "tFVCuVhnfi4",
@@ -279,7 +279,7 @@
       "#פרשת_שמות"
     ],
     "privacyStatus": "public",
-    "viewCount": "19"
+    "viewCount": "20"
   },
   {
     "videoId": "oYgA4CJCBSU",
@@ -292,7 +292,7 @@
       "#פרשת_שמות"
     ],
     "privacyStatus": "public",
-    "viewCount": "11"
+    "viewCount": "9"
   },
   {
     "videoId": "Obw0Du0Mqfo",
@@ -332,5 +332,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "WSfQVTjQbPM",
+    "title": "Private video",
+    "publishedAt": "2026-01-09T00:01:54Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
