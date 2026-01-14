@@ -58,7 +58,7 @@
       "#פרשת_וארא"
     ],
     "privacyStatus": "public",
-    "viewCount": "28"
+    "viewCount": "27"
   },
   {
     "videoId": "r5a4kITBJTM",
@@ -97,7 +97,7 @@
       "#פרשת_וארא"
     ],
     "privacyStatus": "public",
-    "viewCount": "90"
+    "viewCount": "91"
   },
   {
     "videoId": "aAT7A6iKzfo",
@@ -215,5 +215,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "2OppE7zBD8k",
+    "title": "Private video",
+    "publishedAt": "2026-01-14T19:29:50Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
