@@ -306,5 +306,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "12"
+  },
+  {
+    "videoId": "Z1muMSKNe50",
+    "title": "Private video",
+    "publishedAt": "2026-01-15T23:43:07Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
