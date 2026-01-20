@@ -124,5 +124,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "PSLoBL0MS8M",
+    "title": "Private video",
+    "publishedAt": "2026-01-20T11:43:10Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
