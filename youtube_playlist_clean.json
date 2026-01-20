@@ -45,7 +45,7 @@
       "#פרשת_בא"
     ],
     "privacyStatus": "public",
-    "viewCount": "11"
+    "viewCount": "10"
   },
   {
     "videoId": "CuaxA80GqGk",
@@ -72,5 +72,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "ZVW9yeEfm3U",
+    "title": "Private video",
+    "publishedAt": "2026-01-20T07:22:44Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
