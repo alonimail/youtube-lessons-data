@@ -71,7 +71,7 @@
       "#פרשת_בא"
     ],
     "privacyStatus": "public",
-    "viewCount": "10"
+    "viewCount": "8"
   },
   {
     "videoId": "-W6BKEF8vA4",
@@ -97,7 +97,7 @@
       "#פרשת_בא"
     ],
     "privacyStatus": "public",
-    "viewCount": "9"
+    "viewCount": "6"
   },
   {
     "videoId": "gXObKpc0y6M",
@@ -110,7 +110,7 @@
       "#פרשת_בא"
     ],
     "privacyStatus": "public",
-    "viewCount": "5"
+    "viewCount": "4"
   },
   {
     "videoId": "TWVzFN_xE6A",
@@ -176,5 +176,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "_zRGrjurz-8",
+    "title": "Private video",
+    "publishedAt": "2026-01-20T23:10:34Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
