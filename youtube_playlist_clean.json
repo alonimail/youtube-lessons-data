@@ -20,5 +20,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "I87FWPYmvxc",
+    "title": "Private video",
+    "publishedAt": "2026-01-25T23:37:56Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
