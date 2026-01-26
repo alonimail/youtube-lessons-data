@@ -33,5 +33,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "HUYEjtmCtsQ",
+    "title": "Private video",
+    "publishedAt": "2026-01-26T00:12:36Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
