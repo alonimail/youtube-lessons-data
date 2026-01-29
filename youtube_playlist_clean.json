@@ -10,7 +10,7 @@
       "#פרשת_בשלח"
     ],
     "privacyStatus": "public",
-    "viewCount": "4226"
+    "viewCount": "4238"
   },
   {
     "videoId": "5P6atCnDBR4",
@@ -219,5 +219,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "zkYnDbbHE2I",
+    "title": "Private video",
+    "publishedAt": "2026-01-29T17:59:38Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
