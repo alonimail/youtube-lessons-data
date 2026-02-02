@@ -23,7 +23,7 @@
       "#פרשת_יתרו"
     ],
     "privacyStatus": "public",
-    "viewCount": "21"
+    "viewCount": "20"
   },
   {
     "videoId": "QVN9JqUZ5jg",
@@ -36,7 +36,7 @@
       "#פרשת_יתרו"
     ],
     "privacyStatus": "public",
-    "viewCount": "55"
+    "viewCount": "54"
   },
   {
     "videoId": "kdPZypH5tt0",
@@ -89,5 +89,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "6EzKBw3QDY4",
+    "title": "Private video",
+    "publishedAt": "2026-02-02T19:02:55Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
