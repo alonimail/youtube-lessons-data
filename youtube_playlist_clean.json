@@ -10,7 +10,7 @@
       "#פרשת_יתרו"
     ],
     "privacyStatus": "public",
-    "viewCount": "548"
+    "viewCount": "544"
   },
   {
     "videoId": "QVN9JqUZ5jg",
@@ -49,7 +49,7 @@
       "#פרשת_יתרו"
     ],
     "privacyStatus": "public",
-    "viewCount": "28"
+    "viewCount": "30"
   },
   {
     "videoId": "kdPZypH5tt0",
@@ -62,7 +62,7 @@
       "#פרשת_יתרו"
     ],
     "privacyStatus": "public",
-    "viewCount": "11"
+    "viewCount": "12"
   },
   {
     "videoId": "4KPXgfL3tZo",
@@ -114,7 +114,7 @@
       "#פרשת_יתרו"
     ],
     "privacyStatus": "public",
-    "viewCount": "27"
+    "viewCount": "39"
   },
   {
     "videoId": "95yg5jeR2Yk",
@@ -127,6 +127,15 @@
       "#פרשת_יתרו"
     ],
     "privacyStatus": "public",
-    "viewCount": "6"
+    "viewCount": "7"
+  },
+  {
+    "videoId": "YWT7jzex7Lk",
+    "title": "Private video",
+    "publishedAt": "2026-02-03T18:50:26Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
