@@ -245,5 +245,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "3"
+  },
+  {
+    "videoId": "WCizxFm94Kk",
+    "title": "Private video",
+    "publishedAt": "2026-02-05T18:03:41Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
