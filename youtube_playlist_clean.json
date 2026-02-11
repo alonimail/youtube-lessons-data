@@ -128,5 +128,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "11"
+  },
+  {
+    "videoId": "yIA93RVPNBE",
+    "title": "Private video",
+    "publishedAt": "2026-02-11T18:35:44Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
