@@ -75,7 +75,7 @@
       "#פרשת_תרומה"
     ],
     "privacyStatus": "public",
-    "viewCount": "42"
+    "viewCount": "44"
   },
   {
     "videoId": "QaL8qCNKotw",
@@ -101,7 +101,7 @@
       "#פרשת_תרומה"
     ],
     "privacyStatus": "public",
-    "viewCount": "32"
+    "viewCount": "33"
   },
   {
     "videoId": "YflSh6hGUyI",
@@ -179,7 +179,7 @@
       "#פרשת_תרומה"
     ],
     "privacyStatus": "public",
-    "viewCount": "8"
+    "viewCount": "7"
   },
   {
     "videoId": "T2URYLzhLv0",
@@ -244,7 +244,7 @@
       "#פרשת_תרומה"
     ],
     "privacyStatus": "public",
-    "viewCount": "3"
+    "viewCount": "2"
   },
   {
     "videoId": "EfEWHqTiDQE",
@@ -271,5 +271,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "HwkgNVUxPXE",
+    "title": "Private video",
+    "publishedAt": "2026-02-19T22:00:41Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
