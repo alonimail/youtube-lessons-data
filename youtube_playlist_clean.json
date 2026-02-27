@@ -23,7 +23,7 @@
       "#פרשת_תצוה"
     ],
     "privacyStatus": "public",
-    "viewCount": "166"
+    "viewCount": "167"
   },
   {
     "videoId": "HyZNBjaasAw",
@@ -75,7 +75,7 @@
       "#פרשת_תצוה"
     ],
     "privacyStatus": "public",
-    "viewCount": "40"
+    "viewCount": "39"
   },
   {
     "videoId": "dzoGaUHdL2E",
@@ -114,7 +114,7 @@
       "#פרשת_תצוה"
     ],
     "privacyStatus": "public",
-    "viewCount": "28"
+    "viewCount": "33"
   },
   {
     "videoId": "BX0s5XPJtr4",
@@ -244,7 +244,7 @@
       "#פרשת_תצוה"
     ],
     "privacyStatus": "public",
-    "viewCount": "6"
+    "viewCount": "5"
   },
   {
     "videoId": "BXG4juLYr48",
@@ -271,5 +271,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "J4da2ecdec8",
+    "title": "Private video",
+    "publishedAt": "2026-02-27T01:27:50Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
