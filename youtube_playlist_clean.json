@@ -23,7 +23,7 @@
       "#פרשת_ויקהל"
     ],
     "privacyStatus": "public",
-    "viewCount": "6"
+    "viewCount": "5"
   },
   {
     "videoId": "1bvT4jEVGPw",
@@ -37,5 +37,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "kXI9aZcQrtE",
+    "title": "Private video",
+    "publishedAt": "2026-03-09T19:22:48Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
