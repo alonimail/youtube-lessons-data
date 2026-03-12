@@ -62,7 +62,7 @@
       "#פרשת_ויקהל"
     ],
     "privacyStatus": "public",
-    "viewCount": "43"
+    "viewCount": "42"
   },
   {
     "videoId": "kXI9aZcQrtE",
@@ -101,7 +101,7 @@
       "#פרשת_ויקהל"
     ],
     "privacyStatus": "public",
-    "viewCount": "22"
+    "viewCount": "21"
   },
   {
     "videoId": "4FLoMJF3VoE",
@@ -140,7 +140,7 @@
       "#פרשת_ויקהל"
     ],
     "privacyStatus": "public",
-    "viewCount": "21"
+    "viewCount": "20"
   },
   {
     "videoId": "rABfJkMyFrU",
@@ -153,7 +153,7 @@
       "#פרשת_ויקהל"
     ],
     "privacyStatus": "public",
-    "viewCount": "13"
+    "viewCount": "15"
   },
   {
     "videoId": "bSGMPLfqlj4",
@@ -219,5 +219,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "5"
+  },
+  {
+    "videoId": "bwLcsItVbsY",
+    "title": "Private video",
+    "publishedAt": "2026-03-12T14:01:50Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
