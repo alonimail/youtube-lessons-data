@@ -75,7 +75,7 @@
       "#פרשת_ויקרא"
     ],
     "privacyStatus": "public",
-    "viewCount": "35"
+    "viewCount": "41"
   },
   {
     "videoId": "sVEPKTFI5Zw",
@@ -258,5 +258,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "1"
+  },
+  {
+    "videoId": "rO17PenV-rU",
+    "title": "Private video",
+    "publishedAt": "2026-03-19T17:00:43Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
