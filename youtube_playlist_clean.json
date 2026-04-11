@@ -61,5 +61,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "zq-wQbi3cN0",
+    "title": "Private video",
+    "publishedAt": "2026-04-11T22:39:43Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
