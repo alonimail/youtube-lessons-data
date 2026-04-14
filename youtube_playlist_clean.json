@@ -10,7 +10,7 @@
       "#פרשת_תזריע"
     ],
     "privacyStatus": "public",
-    "viewCount": "193"
+    "viewCount": "191"
   },
   {
     "videoId": "O2djUVbQ3V8",
@@ -75,7 +75,7 @@
       "#פרשת_תזריע"
     ],
     "privacyStatus": "public",
-    "viewCount": "14"
+    "viewCount": "15"
   },
   {
     "videoId": "eaxlFZHYSsk",
@@ -195,5 +195,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "2"
+  },
+  {
+    "videoId": "9gGeZUh-5EQ",
+    "title": "Private video",
+    "publishedAt": "2026-04-14T21:42:04Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
