@@ -90,5 +90,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "cn9T0ON5Heg",
+    "title": "Private video",
+    "publishedAt": "2026-04-21T06:46:51Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
