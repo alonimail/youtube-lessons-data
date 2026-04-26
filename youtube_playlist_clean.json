@@ -24,5 +24,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "epZr4UUs1lo",
+    "title": "Private video",
+    "publishedAt": "2026-04-26T00:10:06Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
