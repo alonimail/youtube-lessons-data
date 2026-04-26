@@ -37,5 +37,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "NFmDuwndloI",
+    "title": "Private video",
+    "publishedAt": "2026-04-26T00:19:54Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
