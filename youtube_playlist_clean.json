@@ -23,7 +23,7 @@
       "#פרשת_אמור"
     ],
     "privacyStatus": "public",
-    "viewCount": "160"
+    "viewCount": "158"
   },
   {
     "videoId": "XMCxvdCbWrY",
@@ -127,7 +127,7 @@
       "#פרשת_אמור"
     ],
     "privacyStatus": "public",
-    "viewCount": "43"
+    "viewCount": "39"
   },
   {
     "videoId": "9FozkXj_L1Y",
@@ -205,7 +205,7 @@
       "#פרשת_אמור"
     ],
     "privacyStatus": "public",
-    "viewCount": "16"
+    "viewCount": "13"
   },
   {
     "videoId": "2OtM4RUBcXg",
@@ -258,5 +258,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "AiVZ1EgRjAs",
+    "title": "Private video",
+    "publishedAt": "2026-04-30T11:44:39Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
