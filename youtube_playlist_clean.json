@@ -206,5 +206,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "4"
+  },
+  {
+    "videoId": "J9SRpg_hdS8",
+    "title": "Private video",
+    "publishedAt": "2026-05-14T00:51:16Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
