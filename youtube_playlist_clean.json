@@ -179,7 +179,7 @@
       "#פרשת_במדבר"
     ],
     "privacyStatus": "public",
-    "viewCount": "13"
+    "viewCount": "12"
   },
   {
     "videoId": "S6qVLUDFDzs",
@@ -232,5 +232,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "5"
+  },
+  {
+    "videoId": "SfUCnmVrsgs",
+    "title": "Private video",
+    "publishedAt": "2026-05-14T11:57:33Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
