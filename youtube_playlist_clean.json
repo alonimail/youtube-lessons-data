@@ -10,7 +10,7 @@
       "#פרשת_בהעלותך"
     ],
     "privacyStatus": "public",
-    "viewCount": "97"
+    "viewCount": "99"
   },
   {
     "videoId": "wXMUxFsnfY0",
@@ -140,7 +140,7 @@
       "#פרשת_בהעלותך"
     ],
     "privacyStatus": "public",
-    "viewCount": "32"
+    "viewCount": "39"
   },
   {
     "videoId": "HEaXujkZX1A",
@@ -193,5 +193,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "5"
+  },
+  {
+    "videoId": "AEW-JdI1eqY",
+    "title": "Private video",
+    "publishedAt": "2026-05-28T10:32:42Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
