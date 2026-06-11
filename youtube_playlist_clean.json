@@ -10,7 +10,7 @@
       "#פרשת_קרח"
     ],
     "privacyStatus": "public",
-    "viewCount": "3354"
+    "viewCount": "3365"
   },
   {
     "videoId": "uBhF01g8mJs",
@@ -232,5 +232,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "17"
+  },
+  {
+    "videoId": "j0nvzTmbdHA",
+    "title": "Private video",
+    "publishedAt": "2026-06-11T10:10:36Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
