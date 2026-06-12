@@ -297,5 +297,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "st8a_Ug7T-o",
+    "title": "Private video",
+    "publishedAt": "2026-06-12T00:46:01Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
