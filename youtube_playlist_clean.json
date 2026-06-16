@@ -128,5 +128,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "oWOGaTJasPg",
+    "title": "Private video",
+    "publishedAt": "2026-06-16T19:34:48Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
