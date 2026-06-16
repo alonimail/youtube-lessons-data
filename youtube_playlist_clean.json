@@ -36,7 +36,7 @@
       "#פרשת_חוקת"
     ],
     "privacyStatus": "public",
-    "viewCount": "72"
+    "viewCount": "74"
   },
   {
     "videoId": "UVw58Eqdsks",
@@ -101,7 +101,7 @@
       "#פרשת_חוקת"
     ],
     "privacyStatus": "public",
-    "viewCount": "18"
+    "viewCount": "19"
   },
   {
     "videoId": "Jb_YZh1ndsw",
@@ -141,5 +141,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "4"
+  },
+  {
+    "videoId": "JaqRMq2LRJA",
+    "title": "Private video",
+    "publishedAt": "2026-06-16T22:36:35Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
