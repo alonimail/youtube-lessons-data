@@ -10,7 +10,7 @@
       "#פרשת_בלק"
     ],
     "privacyStatus": "public",
-    "viewCount": "1632"
+    "viewCount": "1634"
   },
   {
     "videoId": "84ikm20kobA",
@@ -284,5 +284,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "2"
+  },
+  {
+    "videoId": "bCI0kr0NNZA",
+    "title": "Private video",
+    "publishedAt": "2026-06-25T19:50:15Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
