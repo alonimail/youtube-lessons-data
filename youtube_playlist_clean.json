@@ -76,5 +76,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "K54_jKJ_Ip4",
+    "title": "Private video",
+    "publishedAt": "2026-07-12T00:05:36Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
