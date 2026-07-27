@@ -48,7 +48,7 @@
       "#פרשת_עקב"
     ],
     "privacyStatus": "public",
-    "viewCount": "15"
+    "viewCount": "14"
   },
   {
     "videoId": "POGvQgxZ5g0",
@@ -75,5 +75,15 @@
     ],
     "privacyStatus": "public",
     "viewCount": "3"
+  },
+  {
+    "videoId": "V_aC8e48ZmI",
+    "title": "Private video",
+    "publishedAt": "2026-07-27T15:43:50Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public",
+    "viewCount": "0"
   }
 ]
