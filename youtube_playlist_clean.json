@@ -22,7 +22,7 @@
       "#הרב_חיים"
     ],
     "privacyStatus": "public",
-    "viewCount": "265"
+    "viewCount": "263"
   },
   {
     "videoId": "V_aC8e48ZmI",
@@ -192,5 +192,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "HfPU7fiJFdk",
+    "title": "Private video",
+    "publishedAt": "2026-07-30T14:44:30Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
