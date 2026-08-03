@@ -23,7 +23,7 @@
       "#פרשת_ראה"
     ],
     "privacyStatus": "public",
-    "viewCount": "56"
+    "viewCount": "55"
   },
   {
     "videoId": "wpVTrsjJj4M",
@@ -76,5 +76,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "1"
+  },
+  {
+    "videoId": "s86F5GnnIzo",
+    "title": "Private video",
+    "publishedAt": "2026-08-03T10:13:27Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
