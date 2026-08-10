@@ -23,7 +23,7 @@
       "#פרשת_שופטים"
     ],
     "privacyStatus": "public",
-    "viewCount": "226"
+    "viewCount": "229"
   },
   {
     "videoId": "lJooG2U4VUc",
@@ -36,7 +36,7 @@
       "#פרשת_שופטים"
     ],
     "privacyStatus": "public",
-    "viewCount": "28"
+    "viewCount": "26"
   },
   {
     "videoId": "grHpRh4OTMI",
@@ -50,5 +50,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "3"
+  },
+  {
+    "videoId": "S15zz3iubfk",
+    "title": "Private video",
+    "publishedAt": "2026-08-10T07:26:44Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
