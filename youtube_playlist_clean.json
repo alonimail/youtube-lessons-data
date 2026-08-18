@@ -179,5 +179,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "1"
+  },
+  {
+    "videoId": "w-dxGYadACQ",
+    "title": "Private video",
+    "publishedAt": "2026-08-18T20:58:28Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
