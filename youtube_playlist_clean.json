@@ -322,5 +322,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "84iMAVzJUac",
+    "title": "Private video",
+    "publishedAt": "2026-08-21T11:10:48Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
