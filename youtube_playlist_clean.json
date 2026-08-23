@@ -400,5 +400,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "RzeWNA_0fN0",
+    "title": "Private video",
+    "publishedAt": "2026-08-23T12:28:44Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
