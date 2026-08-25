@@ -444,5 +444,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "uOWGHz7KoRg",
+    "title": "Private video",
+    "publishedAt": "2026-08-25T20:37:04Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
