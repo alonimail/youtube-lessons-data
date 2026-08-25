@@ -462,5 +462,14 @@
     "thumbnail": "",
     "tags": [],
     "privacyStatus": "public"
+  },
+  {
+    "videoId": "oIuOsgCsYeA",
+    "title": "Private video",
+    "publishedAt": "2026-08-25T20:40:13Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
