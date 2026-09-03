@@ -10,7 +10,7 @@
       "#פרשת_נצבים"
     ],
     "privacyStatus": "public",
-    "viewCount": "1028"
+    "viewCount": "1054"
   },
   {
     "videoId": "QrnPgi569cU",
@@ -244,5 +244,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "15"
+  },
+  {
+    "videoId": "fy11zF4UZPo",
+    "title": "Private video",
+    "publishedAt": "2026-09-03T18:50:38Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
