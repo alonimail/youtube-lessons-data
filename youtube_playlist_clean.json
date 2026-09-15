@@ -126,5 +126,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "K66h3rpPtHY",
+    "title": "Private video",
+    "publishedAt": "2026-09-15T00:53:00Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
