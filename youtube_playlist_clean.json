@@ -204,5 +204,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "UZX90WVt704",
+    "title": "Private video",
+    "publishedAt": "2026-09-17T06:24:49Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
