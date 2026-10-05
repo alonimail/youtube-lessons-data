@@ -11,5 +11,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "37"
+  },
+  {
+    "videoId": "PerMRDCy08g",
+    "title": "Private video",
+    "publishedAt": "2026-10-05T03:25:10Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
