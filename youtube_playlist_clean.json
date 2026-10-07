@@ -63,5 +63,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "0"
+  },
+  {
+    "videoId": "gd2Ws-hft08",
+    "title": "Private video",
+    "publishedAt": "2026-10-07T08:44:56Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
