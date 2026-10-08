@@ -62,7 +62,7 @@
       "#פרשת_בראשית"
     ],
     "privacyStatus": "public",
-    "viewCount": "46"
+    "viewCount": "45"
   },
   {
     "videoId": "gd2Ws-hft08",
@@ -76,5 +76,14 @@
     ],
     "privacyStatus": "public",
     "viewCount": "49"
+  },
+  {
+    "videoId": "6lkKIeQ932s",
+    "title": "Private video",
+    "publishedAt": "2026-10-08T06:48:59Z",
+    "description": "This video is private.",
+    "thumbnail": "",
+    "tags": [],
+    "privacyStatus": "public"
   }
 ]
